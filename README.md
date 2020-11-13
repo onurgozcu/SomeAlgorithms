@@ -1,7 +1,9 @@
 # SomeAlgorithms
 Some Sorting &amp; Searching Algorithms
-Binary Search
-Linear Search
-Bubble Sort
-Selection Sort
-Insertion Sort
+<l>
+<ul>Binary Search</ul>
+<ul>Linear Search</ul>
+<ul>Bubble Sort</ul>
+<ul>Selection Sort</ul>
+<ul>Insertion Sort</ul>
+</l>
