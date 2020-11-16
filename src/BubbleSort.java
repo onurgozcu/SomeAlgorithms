@@ -18,10 +18,6 @@ public class BubbleSort {
         //Print all elements
         System.out.println("(Iterative) Bubble Sort Algorithm Result: " + Arrays.toString(ARRAY_ITERATIVE));
 
-
-        //git deneme
-
-
         bubbleSortRecursive(ARRAY_RECURSIVE,ARRAY_RECURSIVE.length);
         //Print all elements
         System.out.print("(Recursive) Bubble Sort Algorithm Result: " + Arrays.toString(ARRAY_RECURSIVE));
